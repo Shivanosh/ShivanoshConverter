@@ -1,0 +1,10 @@
+[package]
+name = "shivanosh_converter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.23"
+image = "0.24"
+flate2 = "1.0"
+rfd = "0.11"
